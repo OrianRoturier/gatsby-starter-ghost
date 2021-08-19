@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://growth-engineer-fr-ghost.herokuapp.com",
+    "contentApiKey": "073b7a5cf6df2ed7f2a17fb9ec"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://growth-engineer-fr-ghost.herokuapp.com",
+    "contentApiKey": "073b7a5cf6df2ed7f2a17fb9ec"
   }
 }
