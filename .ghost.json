@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://growth-engineer-fr-ghost.herokuapp.com",
-    "contentApiKey": "073b7a5cf6df2ed7f2a17fb9ec"
+    "apiUrl": "https://growth-engineer-fr-ghost-4.herokuapp.com",
+    "contentApiKey": "55540b3769703d2ed1df7a9232"
   },
   "production": {
-    "apiUrl": "https://growth-engineer-fr-ghost.herokuapp.com",
-    "contentApiKey": "073b7a5cf6df2ed7f2a17fb9ec"
+    "apiUrl": "https://growth-engineer-fr-ghost-4.herokuapp.com",
+    "contentApiKey": "55540b3769703d2ed1df7a9232"
   }
 }
